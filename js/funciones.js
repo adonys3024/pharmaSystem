@@ -1,4 +1,4 @@
-import recetas from './classes/recetas.jsx'
+import recetas from './classes/recetas.js'
 import UI from './classes/UI.js'
 import { nombreInput, identificacionInput, cieInput, farmacoInput, fechaInput, horaInput, indicacionesInput, formulario } from './selectores.js';
 

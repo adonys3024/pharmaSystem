@@ -1,4 +1,4 @@
-﻿import 
+﻿export const nombreInput = document.querySelector('#nombre');
 class recetas {
     constructor() {
         this.recetas = []
