@@ -1,4 +1,4 @@
-﻿text/javascript
+﻿import 
 class recetas {
     constructor() {
         this.recetas = []
@@ -16,3 +16,4 @@ class recetas {
 }
 
 export default recetas;
+
