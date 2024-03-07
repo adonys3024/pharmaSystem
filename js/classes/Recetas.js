@@ -1,4 +1,4 @@
-
+﻿text/javascript
 class recetas {
     constructor() {
         this.recetas = []
