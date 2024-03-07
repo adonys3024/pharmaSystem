@@ -1,4 +1,4 @@
-// Classes
+
 class recetas {
     constructor() {
         this.recetas = []
